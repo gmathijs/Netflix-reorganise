@@ -6,8 +6,8 @@ This project is more for me to be get aquinted with Visual Code python and using
 The list which Netflix creates has a lot of data and for series each episode is given. I just want to see the series name and the movie name.
 
 The python code (netflix_rerganise_history.py) reads the standard netflix file called NetflixViewingHistory.csv and outputs a csv file 
-called NetflixViewingHistory_out.csv.
-
+called NetflixViewingHistory_out.csv. 
+In the random example given the original file has 3171 rows the reorganized file has 751 rows.
 
 I have addded a column called type, so you can filter. For each serie the serie name is given.
 
